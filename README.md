@@ -1,1 +1,4 @@
-Hi there 🌊
+Hi there! 🌊
+
+`Lawyer` ❌
+Programmer ✅
