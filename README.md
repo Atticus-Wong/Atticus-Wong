@@ -1,8 +1,7 @@
---- Hey, It's Atticus 🌊
+# Hey, It's Atticus 🌊
 
-
-**`~~Lawyer~~`** ❌  
-**`Programmer`** ✅ 
+Lawyer ❌  
+Programmer ✅
 
 ---
 
