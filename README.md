@@ -20,4 +20,5 @@ Programmer ✅
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atticus-Wong&show_icons=true&locale=en&layout=compact&theme=rose-pine" alt="Atticus-Wong" /></p>
+---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atticus-Wong&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="Atticus-Wong" /></p>
