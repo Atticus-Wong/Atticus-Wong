@@ -19,3 +19,4 @@ Programmer ✅
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atticus-Wong)](https://github.com/anuraghazra/github-readme-stats)
