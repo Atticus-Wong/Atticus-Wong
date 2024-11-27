@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Atticus</h1>
-<h3 align="center">An Applications Engineer based in San Jose</h3>
+<h1 align="left">Hi 👋, I'm Atticus</h1>
+<h3 align="left">An Applications Engineer based in San Jose</h3>
 
-- 🔭 I’m currently working on [UCD CS Tutoring web app](https://github.com/Atticus-Wong/UCDavis-Tutoring-Web-App)
+- 🔭 I’m currently working on [UC Davis's CS Tutoring web app](https://github.com/Atticus-Wong/UCDavis-Tutoring-Web-App)
 
 - 🌱 I’m currently learning **AWS, Docker, and Distributed Systems**
 
 - 💬 Ask me about **Fullstack Development**
 
-- 📫 How to reach me **atwong@ucdavis.edu**
+- 📫 Contact me at **atwong@ucdavis.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
