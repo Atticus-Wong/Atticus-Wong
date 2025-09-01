@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Atticus</h1>
 <h3 align="left">An Applications Engineer based in San Jose</h3>
 
-- 🔭 I’m currently working on [UC Davis's CS Tutoring web app](https://github.com/Atticus-Wong/UCDavis-Tutoring-Web-App)
+- 🔭 I’m currently working as a Software Engineer Intern at TikTok
 
 - 🌱 I’m currently learning **AWS, Docker, and Distributed Systems**
 
-- 💬 Ask me about **Fullstack Development**
+- 💬 Ask me about **Fullstack Development** or **Agentic Workflows**
 
 - 📫 Contact me at **atwong@ucdavis.edu**
 
