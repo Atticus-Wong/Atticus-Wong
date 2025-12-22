@@ -1,13 +1,16 @@
 <h1 align="left">Hi 👋, I'm Atticus</h1>
-<h3 align="left">An Applications Engineer based in San Jose</h3>
+<h3 align="left">A SWE based in San Jose</h3>
 
-- 🔭 I’m currently working as a Software Engineer Intern at TikTok
+Work Experience:
+- AI Researcher @ Under Dr Ian Davidson (Sep 2025 - present)
+- SWE Intern @ TikTok (Summer 25')
+- SWE Intern @ Dimely YC (Winter + Spring 25')
 
-- 🌱 I’m currently learning **AWS, Docker, and Distributed Systems**
+- 🌱 I’m currently learning about **DevOps (Terraform/Ansible/Jenkins) and Cloud Infra**
 
 - 💬 Ask me about **Fullstack Development** or **Agentic Workflows**
 
-- 📫 Contact me at **atwong@ucdavis.edu**
+- 📫 Contact me at **wongatticus.inc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
