@@ -1,11 +1,12 @@
 <h1 align="left">Hi 👋, I'm Atticus</h1>
 <h3 align="left">A SWE based in San Jose</h3>
 
+---
 Work Experience:
 - AI Researcher @ Under Dr Ian Davidson (Sep 2025 - present)
 - SWE Intern @ TikTok (Summer 25')
 - SWE Intern @ Dimely YC (Winter + Spring 25')
-
+---
 - 🌱 I’m currently learning about **DevOps (Terraform/Ansible/Jenkins) and Cloud Infra**
 
 - 💬 Ask me about **Fullstack Development** or **Agentic Workflows**
