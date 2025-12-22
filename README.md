@@ -4,7 +4,7 @@
 Work Experience:
 - AI Researcher @ UC Davis - Under Dr Ian Davidson (Sep 2025 - present)
 - SWE Intern @ TikTok (Summer 25')
-- SWE Intern @ Dimely YC (Winter + Spring 25')
+- SWE Intern @ Dimely (Winter + Spring 25')
 ---
 - 🌱 I’m currently learning about **DevOps (Terraform/Ansible/Jenkins) and Cloud Infra**
 
