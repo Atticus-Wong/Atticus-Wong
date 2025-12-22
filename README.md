@@ -2,7 +2,7 @@
 <h3 align="left">A SWE based in San Jose</h3>
 
 Work Experience:
-- AI Researcher @ UC Davis - Under Dr Ian Davidson (Sep 2025 - present)
+- AI Researcher @ UC Davis - Under Dr Ian Davidson (Fall 2025 - Present)
 - SWE Intern @ TikTok (Summer 25')
 - SWE Intern @ Dimely (Winter + Spring 25')
 ---
