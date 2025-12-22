@@ -6,7 +6,7 @@ Work Experience:
 - SWE Intern @ TikTok (Summer 25')
 - SWE Intern @ Dimely (Winter + Spring 25')
 ---
-- 🌱 I’m currently learning about **DevOps (Terraform/Ansible/Jenkins) and Cloud Infra**
+- 🌱 I’m currently learning about **DevOps** (Terraform/Ansible/Jenkins) and **Cloud Infra**
 
 - 💬 Ask me about **Fullstack Development** or **Agentic Workflows**
 
