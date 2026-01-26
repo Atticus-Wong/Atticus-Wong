@@ -16,7 +16,7 @@ Work Experience:
 <p align="left">
 <a href="https://linkedin.com/in/atticus wong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atticus wong" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atticuswong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atticuswong" height="30" width="40" /></a>
-<a href="https://atticuswong.com" target="blank" My Portfolio />
+<a href="https://atticuswong.com" target="blank" <p>My Portfolio<p> />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
