@@ -11,7 +11,7 @@ Work Experience:
 
 - 💬 Ask me about **Fullstack Development** or **Agentic Workflows**
 
-- 📫 Contact me at [wongatticus] [dot] [inc] @ [gmail] [dot] [com]**
+- 📫 Contact me at [wongatticus] [dot] [inc] @ [gmail] [dot] [com]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
