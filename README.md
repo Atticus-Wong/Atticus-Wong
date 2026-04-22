@@ -11,7 +11,7 @@ Work Experience:
 
 - 💬 Ask me about **Fullstack Development** or **Agentic Workflows**
 
-- 📫 Contact me at [wongatticus] [dot] [inc] @ [gmail] [dot] [com]
+- 📫 Contact me at wongatticus [dot] inc @ gmail [dot] com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atticus-Wong&show_icons=true&locale=en&layout=compact&theme=rose_pine&hide_border=true" alt="Atticus-Wong" />
 
