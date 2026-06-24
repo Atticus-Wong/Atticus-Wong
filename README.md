@@ -3,15 +3,15 @@
 
 Work Experience:
 - SWE @ Oracle (July 2026 - Present)
-- AI Researcher @ UC Davis - Under Dr Ian Davidson (Fall 2025 - Present)
-- SWE Intern @ TikTok (Summer 25')
-- SWE Intern @ Dimely (Winter + Spring 25')
+- AI Researcher @ UC Davis - Under Dr Ian Davidson (Sep 2025 - June 2026)
+- SWE Intern @ TikTok (June 2025 - Sep 2026)
+- SWE Intern @ Dimely (Jan 2025- May 2025)
 ---
-- 🌱 I’m currently learning about **DevOps** (Terraform/Ansible/Jenkins) and **Cloud Infra**
+- 🌱 I’m currently learning about **Harness Engineering** and **AI Workflows**
 
-- 💬 Ask me about **Fullstack Development** or **Agentic Workflows**
+- 💬 Ask me about **Fullstack** or **AI Workflows**
 
-- 📫 Contact me at wongatticus [dot] inc @ gmail [dot] com
+- 📫 Contact: me [at] atticuswong [dot] com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atticus-Wong&show_icons=true&locale=en&layout=compact&theme=rose_pine&hide_border=true" alt="Atticus-Wong" />
 
